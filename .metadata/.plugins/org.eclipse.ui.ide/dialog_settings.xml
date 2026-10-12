@@ -7,6 +7,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\unrea\UnrealEmpo\Marina\tdse-tp3_2026-2doC_01C-04\tdse-tp3_03-system_setup_menu"/>
 			<item value="C:\Users\unrea\UnrealEmpo\Marina\tdse-tp3_2026-2doC_01C-04\tdse-tp3_01-porting_c_code"/>
 			<item value="C:\Users\unrea\Downloads\tdse-tp3_01-porting_c_code\tdse-tp3_01-porting_c_code"/>
 		</list>

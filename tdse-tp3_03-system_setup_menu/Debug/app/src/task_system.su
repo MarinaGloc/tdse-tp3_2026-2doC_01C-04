@@ -1,0 +1,11 @@
+../app/src/task_system.c:45:6:task_system_init	40	static,ignoring_inline_asm
+../app/src/task_system.c:81:6:task_system_update	24	static
+../app/src/task_system.c:115:13:task_system_normal_statechart	16	static
+../app/src/task_system.c:127:13:task_system_setup_statechart	16	static
+../app/src/task_system.c:144:13:system_setup_handle_event	24	static
+../app/src/task_system.c:240:13:system_setup_reset_draft	16	static
+../app/src/task_system.c:250:13:system_setup_save	16	static
+../app/src/task_system.c:260:13:system_setup_refresh_display	72	static
+../app/src/task_system.c:336:13:system_display_lines	56	static
+../app/src/task_system.c:347:13:system_pad_line	24	static
+../app/src/task_system.c:365:13:task_system_set_mode	16	static
